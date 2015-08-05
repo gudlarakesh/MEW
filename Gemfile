@@ -22,4 +22,5 @@ group :development, :test do
 end
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
+gem 'simple_form'
 gem 'flipclockjs-rails', '~> 0.7.7'
